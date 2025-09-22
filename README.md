@@ -39,8 +39,8 @@ Indexes have been added for better query performance (e.g., on `books.title`, `m
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/library-management-database.git
-   cd library-management-database
+   git clone https://github.com/jameskim607/library-management-db.git
+   cd library-management-db
 2. Open MySQL and run the SQL script:
 
 mysql -u root -p < library_database.sql
